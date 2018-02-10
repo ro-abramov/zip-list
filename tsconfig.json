@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "newLine": "LF",
+        "outDir": "./lib/",
+        "target": "es2015",
+        "declaration": true,
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true
+    },
+    "include": ["src/**/*"],
+    "exclude": [".git", "node_modules"]
+}

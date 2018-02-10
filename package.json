@@ -1,0 +1,12 @@
+{
+    "name": "zip-list",
+    "version": "0.0.1",
+    "main": "./lib/index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "tsc"
+    },
+    "devDependencies": {
+        "typescript": "^2.7.1"
+    }
+}
